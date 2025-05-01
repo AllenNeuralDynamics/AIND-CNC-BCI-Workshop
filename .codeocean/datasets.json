@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"attached_datasets": [
+		{
+			"id": "c528260e-277e-45ab-89a3-fa4938385ade",
+			"mount": "nwb_1"
+		},
+		{
+			"id": "d85178be-46d5-44a7-ab45-5ccd862c726c",
+			"mount": "nwb"
+		}
+	]
+}

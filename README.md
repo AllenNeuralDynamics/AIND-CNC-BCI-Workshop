@@ -1,3 +1,3 @@
-# aind-capsule-template
+# AIND-CNC-BCI Workshop
 
-Basic structure of a capsule to be customized as needed.
+Data and materials for the AIND-CNC Workshop on May 14, 2025 and the CoNectome Neurohackathon May 16-18. 
