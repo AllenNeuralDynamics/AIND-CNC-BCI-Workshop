@@ -154,6 +154,10 @@
 			"mount": "single-plane-ophys_740369_2025-02-03_19-18-31_processed_2025-05-03_16-59-01"
 		},
 		{
+			"id": "e14ab2e8-f2c2-4ca6-a7e3-8762b3146fa6",
+			"mount": "nwb"
+		},
+		{
 			"id": "e3d5a6b9-92e1-4555-891c-6ad0887ab958",
 			"mount": "single-plane-ophys_731015_2025-01-28_17-40-57_processed_2025-05-03_18-17-54"
 		},
