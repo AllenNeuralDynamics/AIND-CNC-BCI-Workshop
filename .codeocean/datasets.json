@@ -2,8 +2,24 @@
 	"version": 1,
 	"attached_datasets": [
 		{
+			"id": "0851e4a0-b914-4c90-95fd-f850c2ccd4c2",
+			"mount": "single-plane-ophys_767715_2025-02-03_17-30-05_processed_2025-05-06_10-58-53"
+		},
+		{
+			"id": "0d246051-d889-41fc-807e-fba054a28b4e",
+			"mount": "single-plane-ophys_767715_2025-01-31_18-15-21_processed_2025-05-06_14-31-02"
+		},
+		{
+			"id": "14cfe67e-feb8-45ca-805a-03c9c0b71600",
+			"mount": "single-plane-ophys_740369_2025-02-04_17-33-11_processed_2025-05-06_17-04-04"
+		},
+		{
 			"id": "167a1b79-e336-4dee-a4ff-c14c5885f5f2",
 			"mount": "single-plane-ophys_740369_2025-01-24_21-18-11_processed_2025-05-03_10-29-37"
+		},
+		{
+			"id": "1c0e7f3c-dcc0-4002-a619-9de0bbd960e7",
+			"mount": "single-plane-ophys_767715_2025-02-06_18-59-24_processed_2025-05-06_10-57-53"
 		},
 		{
 			"id": "1d561c05-7f4f-45c8-bcc0-e616538afccd",
@@ -24,6 +40,10 @@
 		{
 			"id": "2e1eb3e9-f6fc-4bd8-9049-25b5ed309097",
 			"mount": "single-plane-ophys_772414_2025-01-27_15-57-05_processed_2025-05-04_15-59-05"
+		},
+		{
+			"id": "43369bf8-87c4-4ea3-9f03-686a5a70955b",
+			"mount": "single-plane-ophys_767715_2025-02-10_16-04-20_processed_2025-05-06_17-10-16"
 		},
 		{
 			"id": "4bd3a6a5-d211-41f8-85f0-d3179dab1a72",
@@ -50,6 +70,14 @@
 			"mount": "single-plane-ophys_772414_2025-02-04_13-21-29_processed_2025-05-04_14-56-05"
 		},
 		{
+			"id": "7565ed1c-a0e6-44a8-856f-022710aa906f",
+			"mount": "single-plane-ophys_731015_2025-01-24_20-00-44_processed_2025-05-06_06-18-23"
+		},
+		{
+			"id": "89206782-4ec8-4adc-8334-46415eb829ad",
+			"mount": "single-plane-ophys_731015_2025-01-28_17-40-57_processed_2025-05-06_04-33-16"
+		},
+		{
 			"id": "8a444666-00bb-4bd6-8e13-9e8258e11d44",
 			"mount": "single-plane-ophys_767715_2025-02-13_16-44-36_processed_2025-05-04_05-23-23"
 		},
@@ -58,8 +86,8 @@
 			"mount": "single-plane-ophys_767715_2025-02-03_17-30-05_processed_2025-05-04_05-03-13"
 		},
 		{
-			"id": "95768173-a556-414a-a82a-63c014c759cd",
-			"mount": "nwb"
+			"id": "9763a30e-4c53-418f-ba1f-c44f9d4c7d4b",
+			"mount": "single-plane-ophys_767715_2025-02-13_16-44-36_processed_2025-05-06_14-19-12"
 		},
 		{
 			"id": "9aeef887-407e-40a8-9d85-ba2585649cf2",
@@ -104,6 +132,10 @@
 		{
 			"id": "c2ef42c5-2088-417d-99c5-7bb869b084c2",
 			"mount": "single-plane-ophys_767715_2025-02-10_16-04-20_processed_2025-05-04_02-35-07"
+		},
+		{
+			"id": "c32030ba-a4b0-4d75-a3a1-d904ca5140dc",
+			"mount": "single-plane-ophys_740369_2025-01-24_21-18-11_processed_2025-05-06_04-13-51"
 		},
 		{
 			"id": "c6a3200d-ef10-4ab9-81a5-091c2169151b",
