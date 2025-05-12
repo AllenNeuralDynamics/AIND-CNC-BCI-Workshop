@@ -42,6 +42,10 @@
 			"mount": "single-plane-ophys_740369_2025-02-04_17-33-11_processed_2025-05-07_13-18-21"
 		},
 		{
+			"id": "d7ccb280-0c4d-49e7-8eda-f51d9bcae7e9",
+			"mount": "bci_trial_threshold"
+		},
+		{
 			"id": "f3245873-7e4a-4d0b-a235-518c5f053a3c",
 			"mount": "single-plane-ophys_767715_2025-02-10_16-04-20_processed_2025-05-07_16-51-49"
 		}
