@@ -2,6 +2,10 @@
 	"version": 1,
 	"attached_datasets": [
 		{
+			"id": "319c441e-6025-4b78-b27d-eec576420f2e",
+			"mount": "nwb_1"
+		},
+		{
 			"id": "3358a1a6-ba22-4be5-830a-5b047c4f4c01",
 			"mount": "single-plane-ophys_731015_2025-01-24_20-00-44_processed_2025-05-10_22-05-27"
 		},
@@ -34,6 +38,10 @@
 			"mount": "single-plane-ophys_766719_2025-01-27_18-25-39_processed_2025-05-10_22-12-45"
 		},
 		{
+			"id": "70a4cd2a-d3ea-4ef2-b4dc-cbcd17aa2bbd",
+			"mount": "nwb"
+		},
+		{
 			"id": "76b61371-738d-410e-b3cc-b74592fce52c",
 			"mount": "single-plane-ophys_754303_2025-01-22_18-22-38_processed_2025-05-10_06-34-01"
 		},
@@ -48,6 +56,10 @@
 		{
 			"id": "a7acb184-6f3d-4ff0-a36b-5c5849a485cf",
 			"mount": "single-plane-ophys_731015_2025-01-28_17-40-57_processed_2025-05-10_22-30-38"
+		},
+		{
+			"id": "b34785cc-68a7-4f2c-89e3-6bf297297764",
+			"mount": "nwb_2"
 		},
 		{
 			"id": "b500e6d0-1ce5-4900-8a44-a9c915ea37b3",
