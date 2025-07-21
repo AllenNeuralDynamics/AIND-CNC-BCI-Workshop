@@ -84,6 +84,10 @@
 		{
 			"id": "ef50a8a4-4bae-4b11-b490-2d9c7c83ec0b",
 			"mount": "single-plane-ophys_767715_2025-02-03_17-30-05_processed_2025-05-11_12-45-08"
+		},
+		{
+			"id": "f9582d97-4bf3-4ac7-bd40-e0992ae2f6e8",
+			"mount": "BCI_test"
 		}
 	]
 }
