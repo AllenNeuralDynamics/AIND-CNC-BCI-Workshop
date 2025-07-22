@@ -2,6 +2,10 @@
 	"version": 1,
 	"attached_datasets": [
 		{
+			"id": "0cb9b073-327a-4d06-837c-10eef1a3dd23",
+			"mount": "test_bci_nwb_output"
+		},
+		{
 			"id": "319c441e-6025-4b78-b27d-eec576420f2e",
 			"mount": "nwb_1"
 		},
