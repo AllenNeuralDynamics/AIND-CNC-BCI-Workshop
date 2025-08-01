@@ -18,6 +18,10 @@
 			"mount": "single-plane-ophys_740369_2025-01-30_18-44-54_processed_2025-07-23_02-46-13"
 		},
 		{
+			"id": "397e34b8-cdd2-4c9a-8d20-ca3102c6b429",
+			"mount": "test_asset_for_bci_07_31_v1"
+		},
+		{
 			"id": "6cf51f8b-d873-474a-82e5-31257d38887d",
 			"mount": "single-plane-ophys_740369_2025-01-24_21-18-11_processed_2025-07-23_00-02-52"
 		},
