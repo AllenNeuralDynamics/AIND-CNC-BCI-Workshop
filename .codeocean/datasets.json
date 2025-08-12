@@ -22,8 +22,16 @@
 			"mount": "test_asset_for_bci_07_31_v1"
 		},
 		{
+			"id": "62b8f167-723c-429c-ae6f-259a38c506e2",
+			"mount": "single-plane-ophys_731015_2025-01-10_18-06-31_processed_2025-08-03_20-39-09"
+		},
+		{
 			"id": "6cf51f8b-d873-474a-82e5-31257d38887d",
 			"mount": "single-plane-ophys_740369_2025-01-24_21-18-11_processed_2025-07-23_00-02-52"
+		},
+		{
+			"id": "8830be48-9dc0-4fc6-8ac8-435f440993b9",
+			"mount": "single-plane-ophys_740369_2025-01-24_21-18-11_processed_2025-08-04_06-39-23"
 		},
 		{
 			"id": "90aeb4ff-ba7e-4da6-902b-e83794069e26",
@@ -68,6 +76,10 @@
 		{
 			"id": "ea6c1aff-62e2-4289-bf7f-5fff930c80f7",
 			"mount": "single-plane-ophys_731015_2025-01-28_18-56-35_processed_2025-07-23_01-03-55"
+		},
+		{
+			"id": "f58614ba-5c85-4f79-9b4c-13678d48d2a5",
+			"mount": "single-plane-ophys_740369_2025-01-30_18-44-54_processed_2025-08-04_13-31-14"
 		},
 		{
 			"id": "f613da65-cf25-46ad-babc-f61d052711cc",
