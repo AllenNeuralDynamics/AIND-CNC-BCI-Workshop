@@ -2,88 +2,12 @@
 	"version": 1,
 	"attached_datasets": [
 		{
-			"id": "07fbb746-39fd-4973-8f7c-57e004e91880",
-			"mount": "single-plane-ophys_731015_2025-01-28_17-40-57_processed_2025-07-23_01-13-15"
+			"id": "5120228b-3169-4984-9523-967f17534daa",
+			"mount": "brain-computer-interface"
 		},
 		{
-			"id": "24fca479-87d7-424d-bac1-c36c93a2f8d5",
-			"mount": "single-plane-ophys_767715_2025-01-31_18-15-21_processed_2025-07-23_12-21-52"
-		},
-		{
-			"id": "2c9175a5-5b54-446a-bdeb-a61d54726322",
-			"mount": "single-plane-ophys_767715_2025-02-03_17-30-05_processed_2025-07-23_13-42-13"
-		},
-		{
-			"id": "3064d279-2291-468f-a3c5-5b5fd067f9f7",
-			"mount": "single-plane-ophys_740369_2025-01-30_18-44-54_processed_2025-07-23_02-46-13"
-		},
-		{
-			"id": "397e34b8-cdd2-4c9a-8d20-ca3102c6b429",
-			"mount": "test_asset_for_bci_07_31_v1"
-		},
-		{
-			"id": "62b8f167-723c-429c-ae6f-259a38c506e2",
-			"mount": "single-plane-ophys_731015_2025-01-10_18-06-31_processed_2025-08-03_20-39-09"
-		},
-		{
-			"id": "6cf51f8b-d873-474a-82e5-31257d38887d",
-			"mount": "single-plane-ophys_740369_2025-01-24_21-18-11_processed_2025-07-23_00-02-52"
-		},
-		{
-			"id": "8830be48-9dc0-4fc6-8ac8-435f440993b9",
-			"mount": "single-plane-ophys_740369_2025-01-24_21-18-11_processed_2025-08-04_06-39-23"
-		},
-		{
-			"id": "90aeb4ff-ba7e-4da6-902b-e83794069e26",
-			"mount": "single-plane-ophys_767715_2025-02-06_18-59-24_processed_2025-07-23_16-20-26"
-		},
-		{
-			"id": "9135108a-d752-480f-9072-d97f202b57e4",
-			"mount": "single-plane-ophys_740369_2025-02-03_19-18-31_processed_2025-07-23_09-11-43"
-		},
-		{
-			"id": "947eee67-261f-4294-bd08-104f9ae15172",
-			"mount": "single-plane-ophys_767715_2025-02-17_17-41-50_processed_2025-07-23_19-23-39"
-		},
-		{
-			"id": "973f367f-f493-4108-8ec8-10f6424337ca",
-			"mount": "single-plane-ophys_740369_2025-02-04_17-33-11_processed_2025-07-23_07-30-20"
-		},
-		{
-			"id": "9bd61b83-f9b5-4f8d-bdea-10f26e52241c",
-			"mount": "single-plane-ophys_767715_2025-02-10_16-04-20_processed_2025-07-23_16-10-11"
-		},
-		{
-			"id": "a5ee511a-2ed9-4615-b032-f3ede086aa5f",
-			"mount": "single-plane-ophys_731015_2025-01-24_20-00-44_processed_2025-07-23_01-40-07"
-		},
-		{
-			"id": "bcffaf62-838f-49c6-a2e2-feea11d5ec18",
-			"mount": "single-plane-ophys_767715_2025-02-13_16-44-36_processed_2025-07-23_17-06-49"
-		},
-		{
-			"id": "c071f7b2-b567-4e2e-a30b-f327724051d3",
-			"mount": "single-plane-ophys_731015_2025-01-31_20-37-19_processed_2025-07-23_02-28-40"
-		},
-		{
-			"id": "c9b870b9-a73f-41d7-b905-1a0ff09889f7",
-			"mount": "single-plane-ophys_740369_2025-02-17_19-26-59_processed_2025-07-23_12-38-15"
-		},
-		{
-			"id": "dec3f8ae-eac8-4c81-be73-546215ff8443",
-			"mount": "single-plane-ophys_767715_2025-07-22_15-16-15"
-		},
-		{
-			"id": "ea6c1aff-62e2-4289-bf7f-5fff930c80f7",
-			"mount": "single-plane-ophys_731015_2025-01-28_18-56-35_processed_2025-07-23_01-03-55"
-		},
-		{
-			"id": "f58614ba-5c85-4f79-9b4c-13678d48d2a5",
-			"mount": "single-plane-ophys_740369_2025-01-30_18-44-54_processed_2025-08-04_13-31-14"
-		},
-		{
-			"id": "f613da65-cf25-46ad-babc-f61d052711cc",
-			"mount": "single-plane-ophys_740369_2025-01-09_17-18-37_processed_2025-07-22_23-38-27"
+			"id": "d7ccb280-0c4d-49e7-8eda-f51d9bcae7e9",
+			"mount": "bci_trial_threshold"
 		}
 	]
 }
